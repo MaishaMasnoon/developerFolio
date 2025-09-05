@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/developerFolio/static/css/main.eb93ec0d.css",
+    "main.js": "/developerFolio/static/js/main.58e3bcb6.js",
+    "static/css/64.bba8fa55.chunk.css": "/developerFolio/static/css/64.bba8fa55.chunk.css",
+    "static/js/64.56dc6704.chunk.js": "/developerFolio/static/js/64.56dc6704.chunk.js",
+    "static/css/769.b3cbb36b.chunk.css": "/developerFolio/static/css/769.b3cbb36b.chunk.css",
+    "static/js/769.c4b61cdb.chunk.js": "/developerFolio/static/js/769.c4b61cdb.chunk.js",
+    "static/media/pace-uni-cert.png": "/developerFolio/static/media/pace-uni-cert.7fada0d6c5352240516a.png",
+    "static/media/developerActivity.gif": "/developerFolio/static/media/developerActivity.755a8bf494b575c53bed.gif",
+    "static/media/coursera_cert.png": "/developerFolio/static/media/coursera_cert.7d298f165b43dae76900.png",
+    "static/media/dream-team-award.jpg": "/developerFolio/static/media/dream-team-award.5a6e5c7dedd427dfb430.jpg",
+    "static/media/Montserrat-Regular.ttf": "/developerFolio/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/NYC_DYCD.png": "/developerFolio/static/media/NYC_DYCD.0f89b4e26d982969801f.png",
+    "static/media/resume.pdf": "/developerFolio/static/media/resume.31984642016048e441ec.pdf",
+    "static/media/Agustina.woff": "/developerFolio/static/media/Agustina.eb0c59dda4cc308cba96.woff",
+    "static/media/contactMailDark.gif": "/developerFolio/static/media/contactMailDark.d730301c81abe7373858.gif",
+    "static/media/logo-Pace University.webp": "/developerFolio/static/media/logo-Pace University.89cf8bab22cf94ef5293.webp",
+    "static/media/yahoo-logo.png": "/developerFolio/static/media/yahoo-logo.2d1780c35dcce2ccd7e8.png",
+    "static/media/yahoo-search.png": "/developerFolio/static/media/yahoo-search.59f6d17d055f8e9dada5.png",
+    "static/media/logo-AIUB.png": "/developerFolio/static/media/logo-AIUB.b9abb3091a8cf6a91fb0.png",
+    "static/media/twg-logo.webp": "/developerFolio/static/media/twg-logo.511bdef9c3de7e5002cf.webp",
+    "index.html": "/developerFolio/index.html",
+    "main.eb93ec0d.css.map": "/developerFolio/static/css/main.eb93ec0d.css.map",
+    "main.58e3bcb6.js.map": "/developerFolio/static/js/main.58e3bcb6.js.map",
+    "64.bba8fa55.chunk.css.map": "/developerFolio/static/css/64.bba8fa55.chunk.css.map",
+    "64.56dc6704.chunk.js.map": "/developerFolio/static/js/64.56dc6704.chunk.js.map",
+    "769.b3cbb36b.chunk.css.map": "/developerFolio/static/css/769.b3cbb36b.chunk.css.map",
+    "769.c4b61cdb.chunk.js.map": "/developerFolio/static/js/769.c4b61cdb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eb93ec0d.css",
+    "static/js/main.58e3bcb6.js"
+  ]
+}
