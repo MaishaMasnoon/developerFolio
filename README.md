@@ -3,7 +3,7 @@
 
 <p align="center">
   <kbd>
-<img src="./assets/images/porfolio_recording.gif"></img>
+    <img src="https://raw.githubusercontent.com/MaishaMasnoon/developerFolio/master/src/assets/images/porfolio_recording.gif"></img>
   </kbd>
 </p>
 
