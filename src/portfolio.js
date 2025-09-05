@@ -142,7 +142,7 @@ const techStack = {
   viewSkillBars: true,
   experience: [
     {
-      Stack: "Frontend/Design", //Stack or technology 
+      Stack: "Frontend/Design", //Stack or technology
       progressPercentage: "90%" //Relative proficiency in percentage
     },
     {
