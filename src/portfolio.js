@@ -1,16 +1,12 @@
-/* Change this file to get your personal Portfolio */
-
-// To change portfolio colors globally go to the  _globalColor.scss file
-
 import emoji from "react-easy-emoji";
-import splashAnimation from "./assets/lottie/splashAnimation"; // Rename to your file name for custom animation
+import splashAnimation from "./assets/lottie/splashAnimation"; // File name for custom animation
 
 // Splash Screen
 
 const splashScreen = {
   enabled: true, // set false to disable splash screen
   animation: splashAnimation,
-  duration: 2000 // Set animation duration as per your animation
+  duration: 2000 // Set animation duration as per the animation
 };
 
 // Summary And Greeting Section
@@ -52,9 +48,6 @@ const skillsSection = {
     ),
     emoji("⚡ Integration of third party services such as AWS")
   ],
-
-  /* Make Sure to include correct Font Awesome Classname to view your icon
-https://fontawesome.com/icons?d=gallery */
 
   softwareSkills: [
     {
@@ -146,11 +139,11 @@ const educationInfo = {
 // Your top 3 proficient stacks/tech experience
 
 const techStack = {
-  viewSkillBars: true, //Set it to true to show Proficiency Section
+  viewSkillBars: true,
   experience: [
     {
-      Stack: "Frontend/Design", //Insert stack or technology you have experience in
-      progressPercentage: "90%" //Insert relative proficiency in percentage
+      Stack: "Frontend/Design", //Stack or technology 
+      progressPercentage: "90%" //Relative proficiency in percentage
     },
     {
       Stack: "Backend",
@@ -161,7 +154,7 @@ const techStack = {
       progressPercentage: "60%"
     }
   ],
-  displayCodersrank: false // Set true to display codersrank badges section need to changes your username in src/containers/skillProgress/skillProgress.js:17:62, defaults to false
+  displayCodersrank: false
 };
 
 // Work experience section
@@ -202,15 +195,12 @@ const workExperiences = {
   ]
 };
 
-/* Your Open Source Section to View Your Github Pinned Projects
-To know how to get github key look at readme.md */
-
 const openSource = {
   showGithubProfile: "true", // Set true or false to show Contact profile using Github, defaults to true
   display: true // Set false to hide this section, defaults to true
 };
 
-// Some big projects you have worked on
+// Some big projects
 
 const bigProjects = {
   title: "Professional Projects",
@@ -226,7 +216,7 @@ const bigProjects = {
           name: "Visit Website",
           url: "https://search.yahoo.com/search?p=yahoo"
         }
-        //  you can add extra buttons here.
+        //  Can add extra buttons here.
       ]
     },
     {
@@ -246,7 +236,7 @@ const bigProjects = {
 };
 
 // Achievement Section
-// Include certificates, talks etc
+// Include certificates, awards etc
 
 const achievementSection = {
   title: emoji("Achievements And Certifications 🏆 "),
@@ -296,7 +286,6 @@ const resumeSection = {
   title: "Resume",
   subtitle: "Feel free to download my resume",
 
-  // Please Provide with Your Podcast embeded Link
   display: true // Set false to hide this section, defaults to true
 };
 
@@ -308,7 +297,7 @@ const contactInfo = {
   email_address: "maishamasnoon502@gmail.com"
 };
 
-const isHireable = false; // Set false if you are not looking for a job. Also isHireable will be display as Open for opportunities: Yes/No in the GitHub footer
+const isHireable = true; // Set false if you are not looking for a job. Also isHireable will be display as Open for opportunities: Yes/No in the GitHub footer
 
 export {
   illustration,
