@@ -48,14 +48,6 @@
   background-color: $google;
 }
 
-.twitter i {
-  background-color: $twitter;
-}
-
-.medium i {
-  background-color: $medium;
-}
-
 .stack-overflow i {
   background-color: $stackoverflow;
 }
@@ -69,7 +61,6 @@
 }
 
 /* Hover Transition */
-.twitter i:hover,
 .google i:hover,
 .gitlab i:hover,
 .github i:hover,
@@ -77,8 +68,7 @@
 .facebook i:hover,
 .instagram i:hover,
 .stack-overflow i:hover,
-.kaggle i:hover,
-.medium i:hover {
+.kaggle i:hover {
   background-color: $textColor;
 }
 
