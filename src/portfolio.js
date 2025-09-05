@@ -44,14 +44,13 @@ const socialMediaLinks = {
 
 const skillsSection = {
   title: "What I do",
-  subTitle: "Develop data-driven, responsive web solutions with expertise in modern JavaScript frameworks",
+  subTitle:
+    "Develop data-driven, responsive web solutions with expertise in modern JavaScript frameworks",
   skills: [
     emoji(
       "⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications"
     ),
-    emoji(
-      "⚡ Integration of third party services such as AWS"
-    )
+    emoji("⚡ Integration of third party services such as AWS")
   ],
 
   /* Make Sure to include correct Font Awesome Classname to view your icon
@@ -192,7 +191,6 @@ const workExperiences = {
         "Improved accessibility scores by 40%",
         "Optimized front-end performance and asynchronous data handling"
       ]
-
     },
     {
       role: "Software Engineer Intern",
@@ -221,7 +219,8 @@ const bigProjects = {
     {
       image: require("./assets/images/yahoo-search.png"),
       projectName: "Yahoo Search",
-      projectDesc: "Built accessible and scalable user-facing solutions across multiple domains",
+      projectDesc:
+        "Built accessible and scalable user-facing solutions across multiple domains",
       footerLink: [
         {
           name: "Visit Website",
@@ -233,7 +232,8 @@ const bigProjects = {
     {
       image: require("./assets/images/NYC_DYCD.png"),
       projectName: "NYC DYCD",
-      projectDesc: "Developed accessible UI modules to improve community engagement and program usability",
+      projectDesc:
+        "Developed accessible UI modules to improve community engagement and program usability",
       footerLink: [
         {
           name: "Visit Website",
@@ -250,8 +250,7 @@ const bigProjects = {
 
 const achievementSection = {
   title: emoji("Achievements And Certifications 🏆 "),
-  subtitle:
-    "Achievements, Certifications and Award Letters !",
+  subtitle: "Achievements, Certifications and Award Letters !",
 
   achievementsCards: [
     {
